@@ -1,5 +1,5 @@
 Package: package1
-Exemptions: no_large_files, no_secrets
+Exemptions: no_large_files, no_secrets, no_merge_conflicts
 
 Package: package2
 Exemptions: no_merge_conflicts
