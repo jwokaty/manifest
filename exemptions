@@ -1,0 +1,11 @@
+Package: package1
+Exemptions: no_large_files, no_secrets
+
+Package: package2
+Exemptions: no_merge_conflicts
+
+Package: package3
+Exemptions:
+
+Package: package4
+Exemptions: nonexistant_gate
