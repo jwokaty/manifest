@@ -1,8 +1,8 @@
 Package: package1
-Exemptions: no_large_files, no_secrets, no_merge_conflicts
+Exemptions: no_large_files, no_secrets, no_additional_repositories
 
 Package: package2
-Exemptions: no_merge_conflicts
+Exemptions: no_gitlfs
 
 Package: package3
 Exemptions:
